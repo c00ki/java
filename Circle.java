@@ -36,7 +36,7 @@ public class Circle {    // Save as "Circle.java"
       this.color = color;
    }
  
-   // toString() to provide a short description of this instance
+   // The toString() to provide a short description of this instance
    public String toString() {
       return "Circle with radius = " + radius + " and color of " + color;
    }
