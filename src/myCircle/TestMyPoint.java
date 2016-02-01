@@ -12,7 +12,9 @@ public class TestMyPoint {
 		System.out.println(p2);
 
 		// Test distance() methods
+		// LAALAAA
 		System.out.println(p1.distance(4, 0));
 		System.out.println(p1.distance(p2));
+		
 	}
 }
